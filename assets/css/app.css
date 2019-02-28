@@ -5707,6 +5707,7 @@ input[type=submit].btn-block {
     overflow: hidden;
     height: 100%;
     z-index: 2;
+    border-radius: 0.25rem;
 }
 
 .card-title {
