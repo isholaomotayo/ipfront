@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9d8f4cbd834db655663f10433904dad1.js"
+  "/precache-manifest.45a2509c22f95af608498463e888d612.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "npower-frontend"});
