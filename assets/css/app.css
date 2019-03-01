@@ -226,8 +226,8 @@ table {
 }
 
 caption {
-    padding-top: .75rem 1rem;
-    padding-bottom: .75rem 1rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
     color: rgba(48, 56, 64, .5);
     text-align: left;
     caption-side: bottom
