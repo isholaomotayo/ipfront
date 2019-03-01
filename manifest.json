@@ -1,6 +1,9 @@
 {
-  "name": "frontend",
-  "short_name": "frontend",
+  "name": "Npower Integrated Platform",
+  "short_name": "Integrated Platform","start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#009b41",
+  "background_color": "#fff",
   "icons": [
     {
       "src": "/img/icons/android-icon-192x192.png",
