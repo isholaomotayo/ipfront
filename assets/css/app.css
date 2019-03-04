@@ -5703,7 +5703,7 @@ input[type=submit].btn-block {
 .card-body {
     flex: 1 1 auto;
     padding: 1rem;
-    background: rgba(39,62,84,0.62);
+    background: rgba(39,62,84,0.52);
     overflow: hidden;
     height: 100%;
     z-index: 2;
@@ -28945,4 +28945,8 @@ label {
         margin-left: -5em;
         width: 10em;
     }
+}
+
+img {
+    max-width: 90% !important;
 }
