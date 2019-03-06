@@ -23542,7 +23542,7 @@ a:hover {
 
 .card,
 .card-nav .tab-content {
-    box-shadow: 0 2px 1px -1px rgba(48, 56, 64, .2), 0 1px 1px 0 rgba(48, 56, 64, .14), 0 1px 3px 0 rgba(48, 56, 64, .12);
+    /*box-shadow: 0 2px 1px -1px rgba(48, 56, 64, .2), 0 1px 1px 0 rgba(48, 56, 64, .14), 0 1px 3px 0 rgba(48, 56, 64, .12);*/
     transition: box-shadow .28s cubic-bezier(.4, 0, .2, 1);
     will-change: box-shadow
 }
@@ -28942,6 +28942,6 @@ label {
     }
 }
 
-img {
-    max-width: 90% !important;
-}
+/*img {*/
+    /*max-width: 90% !important;*/
+/*}*/
