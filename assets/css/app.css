@@ -21862,6 +21862,9 @@ a.text-primary-light:hover {
     color: rgba(48, 56, 64, .7) !important
 }
 
+.text-black {
+    color: rgba(48, 56, 64, 1) !important
+}
 .text-white-70 {
     color: hsla(0, 0%, 100%, .7) !important
 }
@@ -28950,6 +28953,10 @@ div#moduleContent img {
 iframe.ql-video {
     width: 640px;
     height: 480px;
+}
+
+div#moduleContent {
+    margin-bottom: 70px;
 }
 
 /*img {*/
