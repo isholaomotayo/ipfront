@@ -28942,6 +28942,16 @@ label {
     }
 }
 
+div#moduleContent img {
+    max-width: 95%;
+}
+
+
+iframe.ql-video {
+    width: 640px;
+    height: 480px;
+}
+
 /*img {*/
     /*max-width: 90% !important;*/
 /*}*/
