@@ -5784,8 +5784,23 @@ input[type=submit].btn-block {
 
 .card-img {
     width: 100%;
-    border-radius: .25rem
+    border-radius: .25rem;
+    object-fit: cover;
+    height: 250px;
+    width: auto;
 }
+
+@media (max-width: 576px) {
+
+    .card-img{
+        height:300px;
+
+
+    }
+
+
+}
+media
 
 .card-img-top {
     width: 100%;
