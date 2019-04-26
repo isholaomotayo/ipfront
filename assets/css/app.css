@@ -28970,6 +28970,11 @@ div#moduleContent img {
 }
 
 
+
+div#moduleContent a {
+    color: #009B41;
+}
+
 iframe.ql-video {
     width: 640px;
     height: 480px;
