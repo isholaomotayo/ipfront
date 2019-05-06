@@ -575,6 +575,10 @@ pre code {
     margin-left: auto
 }
 
+.navbar > .container {
+    max-width: 100%;
+}
+
 @media (min-width: 576px) {
     .container {
         max-width: 520px
@@ -595,7 +599,7 @@ pre code {
 
 @media (min-width: 1200px) {
     .container {
-        max-width: 100%
+        max-width: 960px
     }
 }
 
