@@ -575,7 +575,7 @@ pre code {
     margin-left: auto
 }
 
-.navbar > .container {
+.navbar>.container {
     max-width: 100%;
 }
 
